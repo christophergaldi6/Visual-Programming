@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9260B9BE-2160-B7F1-2C63-2E88B24B14A9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Word.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Word.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadScene.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WordGame_220Chris_220and_220Kiara PreferredExecutionTarget="Unity.Editor" />
+</Properties>
