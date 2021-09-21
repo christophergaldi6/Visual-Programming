@@ -1,0 +1,140 @@
+Hello World
+Hello World
+Hello World
+Hello World
+TIMESTAMP: 9/6/2018 9:32:44 AM
+Hi, Derek
+Hello World
+TIMESTAMP: 9/6/2018 9:33:27 AM
+Hi, Derek
+////////////////////////////////
+Hello World
+TIMESTAMP: 9/6/2018 9:33:32 AM
+Hi, Derek
+////////////////////////////////
+Hello World
+TIMESTAMP: 9/6/2018 9:33:34 AM
+Hi, Derek
+////////////////////////////////
+Hello World
+TIMESTAMP: 9/6/2018 9:33:36 AM
+Hi, Derek
+////////////////////////////////
+Hello World
+TIMESTAMP: 9/6/2018 9:35:53 AM
+Hi, Derek
+////////////////////////////////
+Startup
+TIMESTAMP: 9/6/2018 9:46:21 AM
+////////////////////////////////
+Shutdown
+TIMESTAMP: 9/6/2018 9:46:34 AM
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:09:54
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:10:18
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:17:46
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:17:48
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:23:03
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:23:08
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:23:27
+////////////////////////////////
+spacebar was pressed
+TIMESTAMP: 09/11/2018 09:23:35
+////////////////////////////////
+spacebar was pressed
+TIMESTAMP: 09/11/2018 09:23:35
+////////////////////////////////
+spacebar was pressed
+TIMESTAMP: 09/11/2018 09:23:35
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:23:37
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:23:54
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:23:58
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:23:59
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:24:00
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:24:15
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:24:21
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:27:51
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:27:55
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:28:18
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:28:31
+////////////////////////////////
+Startup
+TIMESTAMP: 09/11/2018 09:31:40
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:40
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:40
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:41
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:41
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:41
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:41
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:42
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:42
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:42
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:42
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:43
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:43
+////////////////////////////////
+Everything is awesome  button was pressed
+TIMESTAMP: 09/11/2018 09:31:43
+////////////////////////////////
+Shutdown
+TIMESTAMP: 09/11/2018 09:31:45
+////////////////////////////////
